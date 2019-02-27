@@ -1,1 +1,2 @@
-rm -rf
+Windows: rm -rf
+Ubuntu: sudo rm -rf
